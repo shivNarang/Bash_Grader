@@ -1,2 +1,2 @@
 # Bash_Grader
-Project for eva;uation scores of different exams using bash
+Project for evaluation scores of different exams using bash
